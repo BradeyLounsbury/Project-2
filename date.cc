@@ -7,6 +7,7 @@
 *************************************************************************/
 
 #include "date.h"
+#include <string>
 
 using namespace std;
 // default constructor
