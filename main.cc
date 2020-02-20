@@ -46,7 +46,7 @@ int main(){
 	choice = 0;
 	choice2 = 0;
 	cutout = false;
-        FBFriends original(myfb);
+    FBFriends original(myfb);
 
 	while(choice != 9){
 	    choice = menu();
